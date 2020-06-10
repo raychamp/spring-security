@@ -1,0 +1,8 @@
+com/packt/springsecurity/backend/spring/BackendConfig.class
+com/packt/springsecurity/backend/controller/UserController.class
+com/packt/springsecurity/backend/model/User.class
+com/packt/springsecurity/frontend/web/controller/WebMediatorController.class
+com/packt/springsecurity/frontend/spring/ClientSecurityConfig.class
+com/packt/springsecurity/backend/model/Role.class
+com/packt/springsecurity/frontend/spring/ClientWebConfig.class
+com/packt/springsecurity/frontend/spring/ClientContextConfig.class
