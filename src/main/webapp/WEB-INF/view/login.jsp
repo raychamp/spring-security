@@ -17,6 +17,7 @@
 </head>
 
 <body>
+        Ray was here
 
   <div class="navbar">
     <div class="navbar-inner">
@@ -54,5 +55,6 @@
     </form>
 
   </div>
+
 </body>
 </html>
